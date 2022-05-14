@@ -1,4 +1,4 @@
-# git_explorer
+# Consumindo a API do GitHub
 Projeto de consumo da API do GitHub em React - Typescript
 
 Necessário instalação de: 
